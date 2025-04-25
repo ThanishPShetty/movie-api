@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Inception",
       "genre": "Sci-Fi",
-      "poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+
       "description": "A thief who steals corporate secrets through dream-sharing.",
       "details": "Directed by Christopher Nolan. Starring Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page.",
       "rating": 8.8,
@@ -14,7 +14,7 @@
       "id": 2,
       "title": "Interstellar",
       "genre": "Sci-Fi",
-      "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg",
+
       "description": "Explorers travel through a wormhole in space to save humanity.",
       "details": "Directed by Christopher Nolan. Starring Matthew McConaughey, Anne Hathaway, Jessica Chastain.",
       "rating": 8.6,
@@ -24,7 +24,6 @@
       "id": 3,
       "title": "The Dark Knight",
       "genre": "Action",
-      "poster": "https://i.pinimg.com/236x/b7/c8/1a/b7c81aaf567216bb249e994d0df03c45.jpg",
       "description": "Batman faces off against the Joker in Gotham.",
       "details": "Directed by Christopher Nolan. Starring Christian Bale, Heath Ledger, Aaron Eckhart.",
       "rating": 9.0,
